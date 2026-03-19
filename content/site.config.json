@@ -1,13 +1,13 @@
 {
   "report": {
-    "title": "ЗВІТИ З ЛАБОРАТОРНИХ РОБІТ",
+    "title": "ЗВІТ З ЛАБОРАТОРНИХ РОБІТ",
     "subjectLine": "з дисципліни «WEB-ОРІЄНТОВАНІ ТЕХНОЛОГІЇ. BACKEND РОЗРОБКИ»"
   },
   "student": {
-    "fullName": "Прізвище Ім’я По батькові",
-    "group": "Іx-xx",
+    "fullName": "Богуславець Іван Євгенович",
+    "group": "ІO-35",
     "gender": "male",
-    "photo": "/students/chad.jpg"
+    "photo": "/students/real-chad.jpg"
   },
   "toc": {
     "minDepth": 2,
