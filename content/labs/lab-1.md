@@ -6,7 +6,7 @@
 
 **Місце розташування:**
 - GitHub (web-застосунок): `https://github.com/IvanBogus/IO-35_appWEB-Bohuslavets-Ivan-FIOT-2026.git`
-- Live demo (web-застосунок): `---`
+- Live demo (web-застосунок): `https://ivanbogus.github.io/IO-35_appWEB-Bohuslavets-Ivan-FIOT-2026/`
 - GitHub (звіт): `https://github.com/IvanBogus/IO-35_appRECORD-Bohuslavets-Ivan-FIOT-2026.git`
 - Live demo (звіт): `https://ivanbogus.github.io/IO-35_appRECORD-Bohuslavets-Ivan-FIOT-2026/`
 
