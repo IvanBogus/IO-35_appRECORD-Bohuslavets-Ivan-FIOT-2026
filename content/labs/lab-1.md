@@ -5,10 +5,10 @@
 **Мета:** сформулювати ключові складові опису інформаційної системи: актуальність, мету та завдання, об’єкт і предмет роботи, бізнес-логіку, функціональні та нефункціональні вимоги, Use-case та ER-діаграми, а також розробити адаптивний вебзастосунок із коректним відображенням на різних типах пристроїв.
 
 **Місце розташування:**
-- GitHub (web-застосунок): `https://github.com/IvanBogus/IO-35_appWEB-Bohuslavets-Ivan-FIOT-2026.git`
-- Live demo (web-застосунок): `https://ivanbogus.github.io/IO-35_appWEB-Bohuslavets-Ivan-FIOT-2026/`
-- GitHub (звіт): `https://github.com/IvanBogus/IO-35_appRECORD-Bohuslavets-Ivan-FIOT-2026.git`
-- Live demo (звіт): `https://ivanbogus.github.io/IO-35_appRECORD-Bohuslavets-Ivan-FIOT-2026/`
+- GitHub (web-застосунок): [Посилання](https://github.com/IvanBogus/IO-35_appWEB-Bohuslavets-Ivan-FIOT-2026.git)
+- Live demo (web-застосунок): [Посилання](https://ivanbogus.github.io/IO-35_appWEB-Bohuslavets-Ivan-FIOT-2026/)
+- GitHub (звіт): [Посилання](https://github.com/IvanBogus/IO-35_appRECORD-Bohuslavets-Ivan-FIOT-2026.git)
+- Live demo (звіт): [Посилання](https://ivanbogus.github.io/IO-35_appRECORD-Bohuslavets-Ivan-FIOT-2026/)
 
 ---
 
