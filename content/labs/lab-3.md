@@ -16,6 +16,11 @@
 9. Реалізувати оновлення профілю, зміну пароля, вихід із системи, відновлення пароля, підтвердження email та спрощений Google login endpoint.
 10. Перевірити роботу API через Postman.
 
+**Місце розташування:**
+- GitHub (backend REST API): [Посилання](https://github.com/IvanBogus/lab1-rest-api.git)
+- GitHub (звіт): [Посилання](https://github.com/IvanBogus/IO-35_appRECORD-Bohuslavets-Ivan-FIOT-2026.git)
+- Live demo (звіт): [Посилання](https://ivanbogus.github.io/IO-35_appRECORD-Bohuslavets-Ivan-FIOT-2026/)
+
 ---
 
 ## 2. Аналіз вимог лабораторної роботи
