@@ -292,39 +292,46 @@ npm start
 
 **Рис. 1 - Успішна реєстрація користувача через `POST /api/auth/register`.**
 
+
 ![Помилка валідації при реєстрації](/assets/labs/lab-3/register%20-%20validation%20error.png)
 
 **Рис. 2 - Помилка валідації при реєстрації через `POST /api/auth/register`.**
+
 
 ![Помилка підтвердження пароля](/assets/labs/lab-3/register%20-%20password%20mismatch.png)
 
 **Рис. 3 - Помилка підтвердження пароля при реєстрації через `POST /api/auth/register`.**
 
+
 ![Успішний вхід користувача](/assets/labs/lab-3/login-success.png)
 
 **Рис. 4 - Успішний вхід користувача через `POST /api/auth/login`.**
+
 
 ![Помилка входу](/assets/labs/lab-3/login%20-%20invalid%20credentials.png)
 
 **Рис. 5 - Помилка входу з неправильними обліковими даними через `POST /api/auth/login`.**
 
+
 ![Профіль без токена](/assets/labs/lab-3/profile%20%20-%20without%20token.png)
 
 **Рис. 6 - Відмова доступу до `GET /api/auth/profile` без токена.**
+
 
 ![Профіль з токеном](/assets/labs/lab-3/profile%20-%20with%20token.png)
 
 **Рис. 7 - Успішний доступ до `GET /api/auth/profile` з Bearer-токеном.**
 
+
 ![Оновлення accessToken](/assets/labs/lab-3/refresh%20-%20success.png)
 
 **Рис. 8 - Оновлення `accessToken` через `POST /api/auth/refresh`.**
 
-> Скріншот для оновлення профілю через `PUT /api/auth/profile` у папці `static/assets/labs/lab-3` відсутній, тому він не був вставлений до звіту.
 
 ![Успішна зміна пароля](/assets/labs/lab-3/change-password%20-%20success.png)
 
 **Рис. 9 - Успішна зміна пароля через `PUT /api/auth/change-password`.**
+
 
 ![Успішний вихід](/assets/labs/lab-3/logout%20-%20success.png)
 
